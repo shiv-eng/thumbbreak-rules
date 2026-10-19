@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "minAppVersion": 1,
+  "apps": {
+    "instagram": {
+      "viewIds": ["clips_viewer_view_pager", "clips_viewer_container"],
+      "tabLabels": ["Reels"]
+    },
+    "youtube": {
+      "viewIds": ["reel_recycler", "reel_player_page_container", "reel_watch_player"],
+      "tabLabels": ["Shorts"]
+    },
+    "facebook": {
+      "viewIds": [],
+      "tabLabels": ["Reels"]
+    },
+    "snapchat": {
+      "viewIds": [],
+      "tabLabels": ["Spotlight"]
+    }
+  }
+}
